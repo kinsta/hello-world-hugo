@@ -1,0 +1,20 @@
+{
+    "name": "hugo-starter",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "hugo",
+        "create": "hugo new",
+        "serve": "hugo server",
+        "start": "serve ./public"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "hugo-bin": "^0.114.2"
+    },
+    "dependencies": {
+        "serve": "^14.2.1"
+    }
+}
