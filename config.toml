@@ -1,4 +1,4 @@
-baseURL = 'https://hugo-start-tvmwq.kinsta.app/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "PaperMod"
