@@ -1,5 +1,4 @@
-![hugo](https://github.com/palmiak/hello-world-hugo/assets/2342458/77e91b29-711d-449c-9e1c-53691e0eead4)
-
+![hugo](https://github.com/kinsta/hello-world-hugo/assets/2342458/d907aed2-2dc7-42e7-a0ee-a01ed7044277)
 # Kinsta - Hello World - Static Site With Hugo 🚀
 
 An example of how to deploy a static site built with Hugo on Kinsta Hosting.
