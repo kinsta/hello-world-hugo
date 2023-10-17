@@ -1,4 +1,5 @@
-![Astro](https://user-images.githubusercontent.com/2342458/230581871-dc3c1c5f-91a2-484c-8b5c-5065a6b99ff0.png)
+![hugo](https://github.com/palmiak/hello-world-hugo/assets/2342458/77e91b29-711d-449c-9e1c-53691e0eead4)
+
 # Kinsta - Hello World - Static Site With Hugo 🚀
 
 An example of how to deploy a static site built with Hugo on Kinsta Hosting.
